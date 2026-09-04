@@ -1,7 +1,7 @@
 # 👋  Hi, I'm Irina 
 
 ## 👩‍🔬 **About Me**
-- 🎓 I graduated from the First Moscow Medical University at the Faculty of Pharmacy 💊
+-  phd student at Skoltech. program - Life sciences / bioinformatics 💊
 - 😺 I have 2 cats 
 - 🎯 My interests: **Bioinformatics, Molecular and Evolutionary Biology**
 
